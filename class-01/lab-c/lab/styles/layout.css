@@ -1,0 +1,45 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#logo {
+  float: left;
+  padding-bottom: 25px;
+}
+
+#logo img {
+  float: left;
+}
+
+#logo h1 {
+  padding-left: 50px;
+}
+
+#slogan {
+  width: 250px;
+  padding-left: 55px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+}
+
+h2 {
+  margin-top: 50px;
+}
