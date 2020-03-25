@@ -1,0 +1,63 @@
+#logo {
+  color: black;
+  text-decoration: none;
+}
+
+#logo h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.4em;
+}
+
+#slogan {
+  color: #a3a4a2;
+  font-family: 'Abel', sans-serif;
+  font-size: .65em;
+  text-transform: uppercase;
+}
+
+hr {
+  background-image: url('../img/hr.png');
+}
+
+input {
+  font-family: 'Patrick Hand', cursive;
+}
+
+.recipe {
+  height: 260px;
+  padding: 37px 0 0 60px;
+  margin: 40px 0;
+}
+
+.recipe li {
+  font-size: 1.3em;
+  line-height: 31px;
+}
+
+aside h3 {
+  font-size: 1.6em;
+  color: #555;
+}
+
+aside p {
+  text-indent: 0;
+}
+
+aside button {
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  background: #b8705a;
+  color: #fff;
+  font-size: 1.2em;
+  border: none;
+}
+
+section hr {
+  border-bottom: 1px solid #eee;
+}
+
+footer section p{
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
